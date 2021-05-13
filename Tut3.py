@@ -1,0 +1,6 @@
+mystr =("wizz playing games")
+#print(mystr[0:11])
+print(mystr.capitalize())
+print(mystr.endswith("games"))
+print(mystr.count("i"))
+print(mystr.replace("games", "PUBG"))
